@@ -1,0 +1,21 @@
+.col-xs{
+    background-color: aqua;
+}
+.col-sm{
+    background-color: aquamarine;
+}
+.col-md{
+    background-color:turquoise;
+}
+.col-lg{
+    background-color: cadetblue;
+}
+.col-xl{
+    background-color: steelblue;
+}
+.col-xxl{
+    background-color: cornflowerblue;
+}
+.row div{
+    width: 100vw;
+}
